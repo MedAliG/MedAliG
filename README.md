@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MedAliG)
 [![DeviantArt](https://img.shields.io/badge/-DeviantArt-0fcc47?style=for-the-badge&logo=deviantart&logoColor=white)]()
 [![Trakt](https://img.shields.io/badge/-Trakt-ed1c24?style=for-the-badge&logo=trakt&logoColor=white)]()
-<img src="https://soloduo-invisible-counter.fly.dev/transp.png?id=skenderl" alt="" style="display: none"/>
+<img src="https://soloduo-invisible-counter.fly.dev/transp.png?id=MedAliG" alt="" style="display: none"/>
 
 ### Hi there 👋, I'm Med Ali
 
