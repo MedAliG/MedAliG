@@ -14,7 +14,7 @@
 
 ### Hi there 👋, I'm Med Ali
 
-- Recent computer science graduate  🎓
+- Recent Software Engineer graduate  🎓
 - Noob Gamer 🏎️ [noob]()
 - I make [Apps](https://play.google.com/store/apps/dev?id=5722813978071911216)  📱
 
