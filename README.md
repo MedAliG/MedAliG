@@ -14,7 +14,7 @@
 
 ### Hi there 👋, I'm Med Ali
 
-- Flutter dev at PIINL TECKNOLOGY
+- Flutter dev at PIINK TEKNOLOGY
 - Noob Gamer 🏎️ [noob]()
 - I make [Apps](https://play.google.com/store/apps/dev?id=5722813978071911216)  📱
 
